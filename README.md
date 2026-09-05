@@ -24,5 +24,5 @@
     ```bash
     cd ml-basics-knn-housing
 3.  Установите зависимости из requirements.txt:
-  ```bash
+    ```bash
     pip install -r requirements.txt
